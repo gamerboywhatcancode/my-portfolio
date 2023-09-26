@@ -1,0 +1,15 @@
+.yessir{
+  position: absolute;
+  left: 30%;
+  top: 35%;
+}
+
+
+.buttons{
+  position: absolute;
+  left: 2%;
+  bottom: -70px;
+  display: flex;
+  row-gap: 20px;
+  column-gap: 75px;
+}
